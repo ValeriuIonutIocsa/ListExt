@@ -6,7 +6,7 @@
     "configurations": [
         {
             "name": "Python: list_ext.py",
-            "type": "python",
+            "type": "debugpy",
             "request": "launch",
             "program": "list_ext.py",
             "console": "integratedTerminal",
@@ -14,7 +14,7 @@
         },
         {
             "name": "Python: list_ext.py (Prog)",
-            "type": "python",
+            "type": "debugpy",
             "request": "launch",
             "program": "list_ext.py",
             "args": [
